@@ -1,0 +1,2 @@
+# WEGROCoin
+Offical
